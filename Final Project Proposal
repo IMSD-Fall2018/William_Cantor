@@ -1,0 +1,4 @@
+For my final project, I want to use the NFL's API to pull data on different teams and players so when the user presses a
+button on the keyboard, it show the team's stats and the player's stats.
+
+https://api.nfl.com/docs/getting-started/index.html
